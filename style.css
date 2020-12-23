@@ -1,5 +1,8 @@
-.jumbotron{
-    background-color: aquamarine;
+/* nav bar */
+img.logo {
+    border-radius: 50%;
 }
 
-
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
